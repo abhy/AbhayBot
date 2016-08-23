@@ -19,7 +19,9 @@
 	
 	"WHAT ELSE?": "Also, he is the co-founder of a business venture, which began in his early college days. Customized tshirts were being designed by him, and he also managed the business development of the firm. \nHe has also been working closely with the technical festival of MSIT, Avensis, developing communication and visual strategies to market various events across different colleges. %[tell me more](postback:chat)",
 	
-
+	"CONTACT" : "You can reach Abhay on his personal number : +91-8527952001.\n You can also drop a mail on : hi@abhaysharma.in, or visit his website : https://www.abhaysharma.in \n %[tell me more](postback:chat)",
+	
+	"BYE": "GoodBye!  It was nice talking to you. I hope you have a wonderful day. I'm looking forward to work with you."
 
 	
     "CONNECT ME": "",

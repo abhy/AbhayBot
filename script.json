@@ -5,7 +5,7 @@
 	
 	"HI": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Sure!](postback:sure)",
 	
-	"Sure!": "Very nice!\nWould you like a tour of his responsive website, which includes his detailed portfolio, \nor would you like me to tell you? \n %[Website](http://www.abhaysharma.in) \n %[Tell me!](postback:chat)",
+	"SURE!": "Very nice!\nWould you like a tour of his responsive website, which includes his detailed portfolio, \nor would you like me to tell you? \n %[Website](http://www.abhaysharma.in) \n %[Tell me!](postback:chat)",
 	
 	"TELL ME!": "What would you like to know about him? \n %[Just Basics](postback:about) %[Education](postback:education) %[Technical Experience](postback:experiences) %[Projects](postback:projects) %[Certificates](postback:certification)",
 	

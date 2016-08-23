@@ -1,17 +1,17 @@
 {
-	"/START": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Take me to mystical land](postback:sure)",
+	"/START": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Sure!](postback:sure)",
 	
-	"HELLO": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Take me to mystical land](postback:sure)",
+	"HELLO": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Sure!](postback:sure)",
 	
-	"HI": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Take me to mystical land](postback:sure)",
+	"HI": "Hi!\nI'm the personal bot of Abhay Sharma.\nI am also a part time psychic, that's how I know you're from Microsoft.\nLet's talk! %[Sure!](postback:sure)",
 	
-	"TAKE ME TO MYSTICAL LAND": "Very nice!\nWould you like a tour of his responsive website, which includes his detailed portfolio, \nor would you like me to tell you? \n %[Website](http://www.abhaysharma.in) %[Tell me!](postback:chat)",
+	"Sure!": "Very nice!\nWould you like a tour of his responsive website, which includes his detailed portfolio, \nor would you like me to tell you? \n %[Website](http://www.abhaysharma.in) \n %[Tell me!](postback:chat)",
 	
 	"TELL ME!": "What would you like to know about him? \n %[Just Basics](postback:about) %[Education](postback:education) %[Technical Experience](postback:experiences) %[Projects](postback:projects) %[Certificates](postback:certification)",
 	
-	"TELL ME MORE": "What would you like to know about him? \n %[Just Basics](postback:about) %[Education](postback:education) %[Technical Experience](postback:experiences) %[Projects](postback:projects) %[Certificates](postback:certification)",
+	"TELL ME MORE": "What else would you like to know about him? \n %[Projects](postback:projects) %[Certificates](postback:certification) %[Contact](postback:contacts)",
     
-	"JUST BASICS": "Abhay Sharma is an engineering student residing in New Delhi. /nHis expertise lies in UI UX Engineering and Software Engineering. %[tell me more](postback:chat)",
+	"JUST BASICS": "Abhay Sharma is an engineering student residing in New Delhi. \nHis expertise lies in UI UX Engineering and Software Engineering. %[Tell me more](postback:chat)",
 	
 	"EDUCATION": "Abhay is currently in fourth year, pursuing his Bachelor of Technology in Information Technology, from Maharaja Surajmal Institute of Technology, Delhi. \nHis aggregate is 75.07. \nHe completed his 12th as well 10th class from Apeejay School, New Delhi, and has secured distinction in both.\n %[Tell me more](postback:chat)",
 	

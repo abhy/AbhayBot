@@ -21,6 +21,9 @@
 	
 	"CERTIFICATES": "He has completed various Internationally Accredited Certifications, and ergo, have deep knowledge regarding diverse technical fields. Data Science Specialization from Coursera, Mobile App Development from ShawAcademy, HubSpot Inbound Certification, and has excelled in Google analytics Individual Qualification.\n Apart from this, he has completed varied professional courses and thus is a Bing Accredited Professional, Google Online Professional, GAIT Certified IT Professional, and AMCAT Certified Data Processing Specialist, to name a few. %[tell me more](postback:chat)",
 	
+	"PROJECTS": "Currently he is working on his Minor Project, related to Authorship Attribution, which is a research based project, and is based on the idea of Artificial Intelligence and Natural Language Processing. \nHe has also worked on Android under the guidance of SkyFi Labs, after the completion of his second year, and has developed an android application "Thesaurus" which used Wordnik API. \n%[tell me more](postback:chat)",
+	
+	
 
 	
     "CONNECT ME": "",

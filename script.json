@@ -1,7 +1,7 @@
 {
 	"/START": "Good Morning! I'm the personal bot of Abhay Sharma. I guess you're here to know more about him. %[Yes I am] (postback:sure) %[Sure] (postback:sure) %[bye] (postback:bye)", 
 "HELLO": "Good Morning! I'm the personal bot of Abhay Sharma. I guess you're here to know more about him. %[Yes I am] (postback:sure) %[Sure] (postback:sure) %[bye] (postback:bye)",
-"HI": "Good Morning! I'm the personal bot of Abhay Sharma. I guess you're here to know more about him. %[Yes I am] (postback:sure) %[Sure] (postback:sure) %[bye] (postback:bye)",,
+"HI": "Good Morning! I'm the personal bot of Abhay Sharma. I guess you're here to know more about him. %[Yes I am] (postback:sure) %[Sure] (postback:sure) %[bye] (postback:bye)",
     "TELL ME MORE ABOUT ANDY": "Andy can code on both available iOS-friendly languages: Swift and Objective C.\nHe also have enough experience in using standard frameworks: UIKit, Core-based frameworks (vanilla CoreData included), Foundation, AutoLayout, Storyboards, XIBs, MapKit, NotificationCenter and many 3rd party frameworks. %[Latest works](postback:apps) %[Experience](postback:experience) %[Education](postback:education)",
     "LATEST WORKS" : "Latest iOS applications, where Andy took a part in: %[Qlean](postback:qlean_app) %[Shelly](postback:shelly_app) %[Stoloto](postback:stoloto_app) %[2ch browser](postback:dvach_browser) %[Other projects](http://8of.org/)",
     "EXPERIENCE": "Three years of iOS experience.\nTotal backend-frontend software engineer experience: five years.\nLatest workplaces: %[Qlean company](postback:qlean_company) %[GoodWorkApps](postback:gwa_company)",

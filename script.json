@@ -11,7 +11,13 @@
 	
 	"TELL ME MORE": "What would you like to know about him? \n %[Just Basics](postback:about) %[Education](postback:education) %[Technical Experience](postback:experiences) %[Projects](postback:projects) %[Certificates](postback:certification)",
     
-	"JUST BASICS": Abhay Sharma is an engineering student residing in New Delhi. /nHis expertise lies in UI UX Engineering and Software Engineering. %[tell me more](postback:chat)",	
+	"JUST BASICS": "Abhay Sharma is an engineering student residing in New Delhi. /nHis expertise lies in UI UX Engineering and Software Engineering. %[tell me more](postback:chat)",
+	
+	"EDUCATION": "Abhay is currently in fourth year, pursuing his Bachelor of Technology in Information Technology, from Maharaja Surajmal Institute of Technology, Delhi. His aggregate is 75.07. He completed his 12th as well 10th class from Apeejay School, New Delhi, and has secured distinction in both. %[tell me more](postback:chat)",
+	
+	"TECHNICAL EXPERIENCE": "Abhay has been working as a UI consultant, since the last five years, and had the privilege of working with multiple remote agencies, startups and individuals refining their products and services. Apart from this, he is also an Android Developer, and has worked as a summer intern at Skyfi Labs in the year 2015. %[What Else?](postback:what_else_have_you_done)",
+	
+	"WHAT ELSE?": "Also, he is the co-founder of a business venture, which began in his early college days. Customized tshirts for student were being solely designed by him, and he also managed the business development of the firm. He has also been working closely with the technical festival of MSIT, Avensis, developing communication and visual strategies to market various events across different colleges. %[tell me more](postback:chat)",
 	
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."

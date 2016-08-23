@@ -11,9 +11,7 @@
 	
 	"TELL ME MORE": "What would you like to know about him? \n %[Just Basics](postback:about) %[Education](postback:education) %[Technical Experience](postback:experiences) %[Projects](postback:projects) %[Certificates](postback:certification)",
     
-	
-	
-	
+	"JUST BASICS": Abhay Sharma is an engineering student residing in New Delhi. /nHis expertise lies in UI UX Engineering and Software Engineering. %[tell me more](postback:chat)",	
 	
     "CONNECT ME": "",
     "DISCONNECT": "Bot is here again.\nSay HELLO."

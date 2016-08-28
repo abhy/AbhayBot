@@ -1,13 +1,13 @@
 {
-	"/START": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot](reply:HITAXBOT)",
+	"/START": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
 	
-	"HELLO": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot](reply:HITAXBOT)",
+	"HELLO": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
 	
-	"HI": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot](reply:HITAXBOT)",
+	"HI": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
 	
-	"HI TAX BOT": "What is your Full Name?",
+	"HI TAX BOT!": "What is your Full Name?",
 	
-	"ABHAY SHARMA": "Should I call you sir or madam? \n %[Sir](reply:SIR) \n %[Madam](reply:MADAM)",
+	"ABHAY SHARMA": "Should I call you sir or madam? \n %[Sir](postback:SIR) \n %[Madam](postback:MADAM)",
 	
 	"SIR": "Very Well Sir, what is your email id?",
     
@@ -25,7 +25,7 @@
 	
 	"ACEPN3567Q" : "What is your DOB according to your PAN?",
 	
-	"24/09/95": "I will certainly wish you! \n What is your residential status? \n %[Ordinary](reply:ORDINARY) \n %[NRI](reply:NRI)",
+	"24/09/95": "I will certainly wish you! \n What is your residential status? \n %[Ordinary](postback:ORDINARY) \n %[NRI](postback:NRI)",
 	
 	"ORDINARY" : "Now, we will need your FORM 16 to fill out some details. \n Please enter name of the company you work for.",
 	
@@ -35,7 +35,7 @@
 	
 	"55000" : "Amount of tax deducted by your company?",
 	
-	"15000" : "Did you have any other income apart from salary during FY 2015-16? \n %[Yes](reply:Yes) \n %[No](reply:NO)",
+	"15000" : "Did you have any other income apart from salary during FY 2015-16? \n %[Yes](postback:Yes) \n %[No](postback:NO)",
 	
 	"NO" : "Let me help you save your taxes now. 1. Deduction means an amount that is eligible to reduce taxable income. Eg. 80C, 80D, 80G 2. Tax exemption on the other hand altogether exempts certain income from being taxable. Eg. HRA, LTA Don't worry if you don't understand the difference. Both are meant for tax saving. \n Interest paid on housing loan can give you deduction of about Rs. 2 Lakh. \n How many houses did you own as on Mar 31, 2016?",
 	
@@ -43,7 +43,7 @@
 	
 	"25000" : "How about your total health insurance premium paid?",
 	
-	"10000" : "Do you wish to claim HRA and/or LTA separately which is NOT reflected in your Form 16? \n %[Yes](reply:Y) \n %[No](reply:N)",
+	"10000" : "Do you wish to claim HRA and/or LTA separately which is NOT reflected in your Form 16? \n %[Y](postback:Y) \n %[N](postback:N)",
 	
 	"N" : "What is your bank account number?",
 	

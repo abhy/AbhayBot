@@ -3,9 +3,7 @@
 	
 	"HELLO": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
 	
-	"HI": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
-	
-	"HI TAX BOT!": "What is your Full Name?",
+	"HI": "Hi!\nI'm tax bot, your tax buddy.\n What is your Full Name?",
 	
 	"ABHAY SHARMA": "Should I call you sir or madam? \n %[Sir](postback:SIR) \n %[Madam](postback:MADAM)",
 	

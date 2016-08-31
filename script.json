@@ -1,7 +1,7 @@
 {
 	"/START": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
 	
-	"HELLO": "Hi!\nI'm tax bot, your tax buddy.\n %[Hi Tax Bot!](postback:HITAXBOT)",
+	"HELLO": "Hi!\nI'm tax bot, your tax buddy.\n What is your Full Name?",
 	
 	"HI": "Hi!\nI'm tax bot, your tax buddy.\n What is your Full Name?",
 	
